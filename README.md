@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Csanindzsa
 - 👀 I’m interested in any project!
-- 🌱 Python, Javascript, HTML, CSS
-- 📫 email:baloghcsani007@gmail.com
+- 🌱 Knowledge: C#, Python, JS, HTML, CSS
+- 📚 Learning: Typescript, React
+- 📫 Inquiries: baloghcsani007@gmail.com
 
 <!---
 Csanindzsa/Csanindzsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
